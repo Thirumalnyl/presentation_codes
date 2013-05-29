@@ -1,4 +1,4 @@
-presentation_codes
+Show me the Code
 ==================
 
-Code Repository to hold the samples that use for my talks
+Code Repository to hold the demo samples that I use for my talks
